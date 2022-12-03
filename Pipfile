@@ -8,7 +8,6 @@ jupyter = "*"
 scikit-learn = "*"
 numpy = "*"
 pandas = "*"
-matplotlib = "*"
 pyspark = "*"
 
 [requires]
